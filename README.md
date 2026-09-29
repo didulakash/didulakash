@@ -56,9 +56,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=didulakash&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didulakash&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <h3>📊 GitHub Overview</h3>
+
+  <a href="https://github.com/didulakash">
+    <img src="https://img.shields.io/badge/Repositories-1-blue?style=for-the-badge&logo=github" alt="Repos" />
+    <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github" alt="Contributions" />
+  </a>
 </div>
