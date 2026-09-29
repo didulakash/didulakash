@@ -61,7 +61,7 @@
 <div align="center">
   <h2>🏆 Badges & Achievements</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/didulakash/didulakash/main/github-badge.jpg" alt="GitHub For Beginners Badge" width="220" />
+  <img src="https://raw.githubusercontent.com/didulakash/didulakash/main/github-badge.jpg" alt="GitHub For Beginners Badge" width="50" />
 </div>
 
 ---
