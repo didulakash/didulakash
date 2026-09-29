@@ -56,6 +56,16 @@
 
 ---
 
+---
+
+<div align="center">
+  <h2>🏆 Badges & Achievements</h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/didulakash/didulakash/main/github-badge.jpg" alt="GitHub For Beginners Badge" width="220" />
+</div>
+
+---
+
 <div align="center">
   <h3>📊 GitHub Overview</h3>
 
@@ -64,3 +74,6 @@
     <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github" alt="Contributions" />
   </a>
 </div>
+
+---
+
