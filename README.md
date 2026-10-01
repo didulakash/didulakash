@@ -57,15 +57,7 @@ Rajarata University of Sri Lanka.
 
 ---
 
----
 
-<div align="center">
-  <h3>🏆 Badges & Achievements</h3>
-  <br>
-  <img src="https://raw.githubusercontent.com/didulakash/didulakash/main/github-badge.jpg" alt="GitHub For Beginners Badge" width="50" />
-</div>
-
----
 
 <div align="center">
   <h3>📊 GitHub Overview</h3>
