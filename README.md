@@ -57,7 +57,25 @@ Rajarata University of Sri Lanka.
 
 ---
 
+<div align="center">
+  <h3>📊 GitHub Overview & Most Used Languages</h3>
 
+  <a href="https://github.com/didulakash">
+    <img src="https://img.shields.io/github/repositories/didulakash?style=for-the-badge&label=REPOSITORIES&color=2b7bb9&logo=github" alt="Repositories" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/didulakash">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didulakash&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/didulakash">
+    <img src="https://github-readme-stats.vercel.app/api?username=didulakash&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</div>
 
 <div align="center">
   <h3>📊 GitHub Overview</h3>
