@@ -1,43 +1,3 @@
-<div align="center">
-
-<pre style="font-family: monospace; font-size: 8px; line-height: 7px; letter-spacing: -1px;">
-                            .@@@@@@@@@@@%.                                                          
-                      . .@@@@@@@@@@@@@@@@@@@@@.                                                     
-.                    @.@@@@@@@@@@@@@@@@@@@@@@@@@@.                                                  
- .                ..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.                                                
-                ...@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.                                               
-                 +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                
- .              +@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@.@@@                                               
-.               @@@@@@@@@@@@@@@@@@@@@ .@@. .@ .   #@@                                               
-                @@@@@@@@@@@@@@@@@@@@.              @.                                               
-                @@@@@@@@@@@@@@@@@@@@.               @.                . @@@@@@%                     
-                @@@@@@@@@@@@@@@@@@.     @@@@@@@     @@              @@@.   ..  @@@.                 
-                 @@@@@@@@@@@@@@@@.    ..@@@@@@@@. @@@@@:.       . .    . @..@.@. .@@                
-                 @@@@@@@#.@@@@@@@@@@@#. @@@@@@  @@@@@@@@@       .@@@@@@@@@. .@@@.@ .@.              
-.                @@@@@@.@@@..@@@#       .@ .    @ @@.  %.       @@@@@   :@@.@@@@@ @.#@.             
-.                 @@@@@. .@@  @@@        @     @.  @@  @        @ @@@    . @@@.@@@.@.@:             
-                  .@@@@  @@@  .@*          @@@.     .@ .        @.@@@    ..@@   @@=@.@@             
-                   .@@@@.  *@                 +..@@.@.          @ @@@     @@.@@@@@@ .@:             
-                    .@@@@@   .                     @.           @@@@@   .@@%..   @@@.@              
-.                    :@@@@-@@@@                  @.@@            @@@@@@@@@. .....@@@.               
-                      =@@@   .@.            :@@#..+@.             .... ..@+.@@@@   ...              
-.                      .@@.   .@@             .@@@@@                *@@...     @@@.                 
-                        @%.   ..@@@@.          .. @.                  . @@@@@@*                     
-                     *@@@.       .@@@@@@@..      .@                                                 
-                    .@@@@          =@@@@@@@@@@@@@@.                                                 
-.                   @@@@@@@          @@@@@@  .                                                      
-                  .@@@@@@@@@@          @@@.                                                         
-               .@@@@@@@@@@@@@@@.        @@@                                                         
-             @@@@@@@@@@@@@@@@@@@@      .@@@@.                                                       
-             @@@@@@@@@@@@@@@@@@@@@@    @@@@@@@@%.                                                   
-             @@@@@@@@@@@@@@@@@@@@@@@@.@@@@@@@@@@@@@                                                 
-             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.                                              
-</pre>
-
-</div>
-
----
-
 ### 👨‍💻 About Me
 - 🎓 **Education:** Undergraduate | BSc (Hons) in Information Systems
 Rajarata University of Sri Lanka.
@@ -48,37 +8,23 @@ Rajarata University of Sri Lanka.
 
 ### 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=plastic&logo=Adobe%20Dreamweaver&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
 
 ---
 
-<div align="center">
-  <h3>📊 GitHub Overview & Most Used Languages</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=didulakash&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=didulakash&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=didulakash&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <a href="https://github.com/didulakash">
-    <img src="https://img.shields.io/github/repositories/didulakash?style=for-the-badge&label=REPOSITORIES&color=2b7bb9&logo=github" alt="Repositories" />
-  </a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=didulakash&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-  <br><br>
+---
+[![](https://komarev.com/ghpvc/?username=didulakash&icon=0&color=13)](https://visitcount.itsvg.in)
 
-  <a href="https://github.com/didulakash">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didulakash&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/didulakash">
-    <img src="https://github-readme-stats.vercel.app/api?username=didulakash&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</div>
-
-<div align="center">
-  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <a href="https://github.com/didulakash">
     
   <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github" alt="Contributions" />
