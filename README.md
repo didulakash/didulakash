@@ -2,7 +2,7 @@
 - 🎓 **Education:** Undergraduate | BSc (Hons) in Information Systems
 Rajarata University of Sri Lanka.
 - 💻 **Programming Languages:** Java, HTML, CSS, JavaScript
-- 🛠️ **Tools & Technologies:** VS Code, Git, GitHub, Power BI
+- 🛠️ **Tools & Technologies:** VS Code, Git, GitHub
 
 ---
 
