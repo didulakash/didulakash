@@ -24,7 +24,7 @@ Rajarata University of Sri Lanka.
 ---
 [![](https://komarev.com/ghpvc/?username=didulakash&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
   <a href="https://github.com/didulakash">
     
   <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github" alt="Contributions" />
